@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb62c9a7c88d5c40bcc28320d25a52df",
+    "revision": "f651c82a7ed79fb3081b4ac5da7006e1",
     "url": "/webkurs-norkart/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webkurs-norkart/static/css/2.0a5b19c0.chunk.css"
   },
   {
-    "revision": "1f62ca61bf70ea54c667",
+    "revision": "ece1a9110c909bb5c0f4",
     "url": "/webkurs-norkart/static/css/main.69eda509.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webkurs-norkart/static/js/2.16ab8709.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f62ca61bf70ea54c667",
-    "url": "/webkurs-norkart/static/js/main.b4a75baf.chunk.js"
+    "revision": "ece1a9110c909bb5c0f4",
+    "url": "/webkurs-norkart/static/js/main.2f7d2a91.chunk.js"
   },
   {
     "revision": "9ac9a1e2cfa7fcc517eb",
